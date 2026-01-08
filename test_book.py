@@ -1,7 +1,7 @@
-from library import library_book_details
+from book import book_details
 
-def test_library_book_details():
-    result = library_book_details(
+def test_book_details():
+    result =book_details(
         101,
         " the sanjav story",
         "sanjav",

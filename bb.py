@@ -7,9 +7,9 @@ def book_details(title, author, book_id, year):
     )
 
 if __name__ == "__main__":
-    title = "The Sanjav Story"
+    title = " the sanjav story "
     author = "Sanjav"
-    book_id = 12345
+    book_id = 101
     year = 2020
 
     print(book_details(title, author, book_id, year))
